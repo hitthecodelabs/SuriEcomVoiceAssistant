@@ -32,7 +32,7 @@ Activate the microphone on the right-hand side with a button that captures real-
 git clone https://github.com/hitthecodelabs/SuriEcomVoiceAssistant.git
 
 # Navigate to the repository
-cd your-repository-name
+cd SuriEcomVoiceAssistant
 
 # Install the requirements
 pip install -r requirements.txt
