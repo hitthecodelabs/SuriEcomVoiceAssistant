@@ -53,3 +53,15 @@ For any further queries, feel free to reach out to us via GitHub issues or conta
 .
 
 Happy Shopping with Voice!
+
+## Contributing
+Contributions to AgroChain are welcome! Here's how you can contribute:
+
+Fork the repository on GitHub.
+Create a new branch for your proposed feature or fix.
+Commit your changes with an informative description.
+Push your branch and submit a pull request.
+We appreciate your input!
+
+## License
+AgroChain - Pitahaya Track is open source software licensed under the MIT License. See the LICENSE file for more details.
