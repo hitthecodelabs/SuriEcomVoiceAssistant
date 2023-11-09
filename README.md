@@ -49,8 +49,7 @@ python manage.py runserver
 To start using the voice assistant feature, simply click on the microphone icon and start speaking. Make sure you're using the Chrome browser for the best experience.
 
 ## Contact
-For any further queries, feel free to reach out to us via GitHub issues or contact the maintainer directly to <a href="mailto:jpaul@hitthecodelabs.com">contact email</a>.</p>
-.
+For any further queries, feel free to reach out to us via GitHub issues or contact the maintainer directly to <a href="mailto:jpaul@hitthecodelabs.com">contact email</a>.</p>.
 
 Happy Shopping with Voice!
 
